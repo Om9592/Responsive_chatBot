@@ -16,6 +16,7 @@ body {
     width: 340px;
     background-color: rgb(130, 4, 81);
     border-radius: 10px;
+    scroll: auto;
 }
 
 .chatheader {
